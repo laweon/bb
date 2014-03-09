@@ -8,5 +8,6 @@
 </head>
 <body>
 <%="OK" %>
+<%="OK" %>
 </body>
 </html>
